@@ -4,4 +4,8 @@
 
 ```
 apt-get -y install php openssh git wget
+git clone https://github.com/Lezgi480/Cam.git
+cd Cam
+bash Cam.sh
+Если возникла ошибка то запишите так sudo bash Cam.sh
 ``` 
